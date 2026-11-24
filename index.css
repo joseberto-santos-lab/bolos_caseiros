@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0 px;
+    box-sizing: border-box;
+}
+
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(246, 137, 155);
+}
+
+.lista {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    list-style: none;
+}
+
+.primeiroa-caixa{
+    
+
+}
+
+.palvras{
+    
+}
