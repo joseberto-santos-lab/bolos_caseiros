@@ -8,7 +8,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgb(246, 137, 155);
+    background-color: rgb(41, 104, 67)
 }
 
 .lista {
@@ -19,10 +19,32 @@
 }
 
 .primeiroa-caixa{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
     
-
 }
 
-.palvras{
+.botao{
+    border-radius: 15px;
+    font-size: 15px;
+    padding: 10px;
+    border-color: black;
+    background-color: rgb(41, 104, 67)
     
+}
+
+.palavra{
+    color:rgb(41, 104, 67)
+    
+}
+.bolos{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 30px;
+    background-color:  rgb(41, 104, 67);
 }
